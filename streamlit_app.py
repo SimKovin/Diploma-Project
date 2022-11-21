@@ -7,6 +7,7 @@ from matplotlib.figure import Figure
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import sklearn
 from sklearn.model_selection import train_test_split
 
 from sklearn.linear_model import LogisticRegression
